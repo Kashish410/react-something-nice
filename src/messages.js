@@ -11,6 +11,7 @@ const messages = [
   "You're a rockstar!",
   "We're lucky to have you on this team!",
   "You have the best attitude!",
+  "Hope you are having good time"
   "Thank you for always being so reliable",
   "You can totally do this💪",
   "You are doing great!",
